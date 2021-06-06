@@ -8,6 +8,7 @@
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
+# Table of Contents
 
 1. [CodeQL Learning Resources](https://github.com/mikeroyal/CodeQL-Guide#codeql-learning-resources)
 
