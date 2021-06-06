@@ -22,7 +22,7 @@
 
 6. [Java Development](https://github.com/mikeroyal/CodeQL-Guide#java-development)
 
-7. [JavaScript/TypeScript Development](https://github.com/mikeroyal/CodeQL-Guide#javascripttypescript-development)
+7. [JavaScript/TypeScript Development](https://github.com/mikeroyal/CodeQL-Guide#typescript-development)
 
 8. [Python Development](https://github.com/mikeroyal/CodeQL-Guide#python-development)
 
